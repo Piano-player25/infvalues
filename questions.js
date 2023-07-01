@@ -194,5 +194,5 @@ questions =  [
     {"id": 178, "question": "Classical music sounds much better than most modern songs.", "effects": {"pmart": 2}},
     {"id": 179, "question": "I have no moral objections to polyamory.", "effects": {"trad": -1, "prud": -2}},
     {"id": 180, "question": "I would not like to argue with someone who has political opinions different than mine.", "effects": {"cmind": 1}},
-    {"id": 181, "question": "A governement is required in order for society to not become incohesive and fall apart.", "effects": {"auth": 1, "unru": -1}},
+    {"id": 181, "question": "A governement is required in order for society to not become incohesive and fall apart.", "effects": {"auth": 1, "unru": -1}}
 ];
