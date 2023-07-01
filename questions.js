@@ -193,5 +193,5 @@ questions =  [
     {"id": 177, "question": "There is now a worrying fusion of information and entertainement.", "effects": {"semir": 2, "trpop": -1}},
     {"id": 178, "question": "Classical music sounds much better than most modern songs.", "effects": {"pmart": 2}},
     {"id": 179, "question": "I have no moral objections to polyamory.", "effects": {"trad": -1, "prud": -2}},
-    {"id": 180, "question": "I would not like to argue with someone who has political opinions different than mine.", {"cmind": 1}}
+    {"id": 180, "question": "I would not like to argue with someone who has political opinions different than mine.", {"cmind": 1}},
 ];
